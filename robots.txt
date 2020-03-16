@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeguhucei.viggos.nu/sitemap.xml
